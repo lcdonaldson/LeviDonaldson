@@ -22,8 +22,11 @@ body {
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
 }
-
-
+// the p {} styling was added by me for the excersize post
+p {
+    font-family: Helvetica;
+    font-size: 14pt;
+}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
