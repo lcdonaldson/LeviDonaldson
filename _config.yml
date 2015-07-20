@@ -1,14 +1,13 @@
-# Site settings
-title: Your awesome title
-email: your-email@domain.com
+Site settings
+title: Bootcamp Chronicles
+email: thegopherguy@yahoo.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is the quick but important journey through Rockit Bootcamp. As I learn new things
+  in this field I will update this blog to show everyone what a coding bootcamp offers.
 baseurl: "/Levi_Donaldson/" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: @levi_donaldson
+github_username:  lcdonaldson
 
-# Build settings
+Build settings
 markdown: kramdown
